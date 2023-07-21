@@ -189,7 +189,7 @@ label {
   }
 
   .image-container {
-    background-image: url("./resource_folder/assets/images/illustration-sign-up-mobile.svg");
+    background-image: url("./illustration-sign-up-mobile.svg");
     background-size: cover;
     padding: 300px 0px 0px 0px;
     border-radius: 0px 0px 20px 20px;
@@ -253,7 +253,7 @@ label {
   }
 
   .image-container {
-    background-image: url("./resource_folder/assets/images/illustration-sign-up-mobile.svg");
+    background-image: url("./illustration-sign-up-mobile.svg");
     background-size: cover;
     padding: 300px 0px 0px 0px;
     border-radius: 0px 0px 20px 20px;
